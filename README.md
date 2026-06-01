@@ -1,5 +1,7 @@
 Forked Xenia-Dashboard for this.
 
+YouTube quick guide to installation: https://www.youtube.com/watch?v=-uMGqclqpbM
+
 This app is compatible with the UIX Emulinator for Cool People BYOND Helper app to make the
 shortcut files this project uses automatically.
 Go here for that helper app: https://www.byond.com/games/Mistamage123/UIXEmulatorinatorforCoolpeople
@@ -21,3 +23,5 @@ NOTE: The helper app is optional. You can add entries manually by going to the x
 shortcuts XDB-your-game-here.lnk  as a base. Xenia-dashboard will successfully scan them either way.
 
 NOTE 2: Adding Xenia paths to the app (should be) optional.
+
+NOTE 3: If you need a video guide on using the app and the helper app, watch this YouTube video: https://www.youtube.com/watch?v=-uMGqclqpbM
